@@ -1,2 +1,3 @@
 test document
 New line addeed in second branch
+cloned one by others
