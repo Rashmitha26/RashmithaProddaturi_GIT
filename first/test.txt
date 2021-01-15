@@ -1,2 +1,1 @@
 test document
-New line addeed in second branch
